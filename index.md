@@ -23,4 +23,4 @@ bash sub_condor.sh 50 0
 - [x] Learn how to add an image
 - [x] Learn how to add a codebox
 - [ ] Learn how to add a task list
-- [ ] 
+
